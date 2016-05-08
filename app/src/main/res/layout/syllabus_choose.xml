@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/lv">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="添加课程"
+        android:id="@+id/choose_bt1"
+        android:layout_gravity="center_horizontal"
+        android:background="#0000"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="添加其他任务"
+        android:id="@+id/choose_bt2"
+        android:layout_marginTop="30dp"
+        android:background="#0000"/>
+</LinearLayout>

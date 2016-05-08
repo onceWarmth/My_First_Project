@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SEG</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="diary_edit">编辑</string>
+    <string name="notepad_title">标题:</string>
+    <string name="notepad_body">内容:</string>
+    <string name="notepad_button">确定:</string>
+    <string name="menu_insert">Add</string>
+    <string name="menu_delete">Delete</string>
+    <string name="edit_diary">Edit</string>
+</resources>
